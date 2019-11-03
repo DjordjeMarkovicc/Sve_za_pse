@@ -61,3 +61,7 @@ border: 1p solid black;
     padding-left: 5%;
     padding-right: 5%;
 }
+
+.pointer{
+    cursor: pointer;
+}
